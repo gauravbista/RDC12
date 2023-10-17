@@ -3,7 +3,7 @@ import random
 
 class HomePageData:
     test_homePageData = [
-        {"first_name": "Test", "last_name": "Jack", "email": "test82@gmail.com",
+        {"first_name": "Test", "last_name": "Jack", "email": "test84@gmail.com",
          "phone_no": "1234567891",
          "part_number": "12345",
          "length": "12",
